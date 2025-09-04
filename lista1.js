@@ -31,7 +31,3 @@ const altura = 10;
 let volume = (1/3)*(base*altura);
 console.log(volume);
 //
-
-asdasdfasd asdf sadf asdf asdf asdfasdf sadf asdfasdf sdf asdfasd 
- asdfa sdfasd fasdf asdf asdf asdf asd fasdf sdf asdf asd 
-  asdfasdf sadf 
